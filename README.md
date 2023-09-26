@@ -1,3 +1,8 @@
+Arduino code example for automatically turning on a motor when a sensor detects a certain condition. In this example, we'll use an ultrasonic distance sensor to trigger the motor when an object comes within a specified range. Make sure you have the necessary components (Arduino, motor, motor driver, and an ultrasonic sensor) connected properly to your Arduino board.
+
+
+
+
 // Include the necessary libraries
 #include <NewPing.h>
 
